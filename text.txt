@@ -1,0 +1,71 @@
+js
+Data types  String.
+Number.
+Boolean.
+Undefined.
+Null.
+
+
+
+Primitive Types 
+Number.
+Boolean.
+Undefined.
+Null.
+Symbol.
+Object.
+
+Referenc Types 
+Objects, 
+arrays,
+functions 
+
+Comparison Operators
+==
+===
+>=
+<=
+> greater than 
+< less than 
+!=
+
+Logical Operators
+&&
+||
+!
+
+
+Arithmetic Operators
++
+-
+*
+**
+/
+%
+++
+--
+
+Type conversions      Assingment,
+
+
+Nullish coalescing   Assingment,
+
+Github 
+
+Interation  alert, confirm, prompt , 
+
+
+Loops  for loop , while loop , for in loop   Assingment,
+
+
+Conditions , if statement , switch statement , ternary operator statement
+
+
+
+keeping data /infomaiton   Arrays, Object ,Mutiple Object in Array,
+
+
+functions and arrow functions
+
+
+fetch api ,.. promise 
